@@ -1,7 +1,7 @@
 # Walmart Online Shopping
 
 
-[![Walmart Online Shopping](shop-now.png)](https://walmart-online-shopping.github.io/)
+[![Walmart Online Shopping](shop-now.png)](https://icncomputer.com/walmart-online-shopping/)
 
 
 ### Up to 65% off Flash Picks 
